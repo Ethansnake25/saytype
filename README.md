@@ -25,7 +25,7 @@ saytype is a **magical keyboard shortcut** for your Mac that turns your voice in
 
 ### Step 1: Download saytype
 
-[![Download saytype](https://img.shields.io/badge/Download-saytype-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Ethansnake25/saytype)
+[![Download saytype](https://img.shields.io/badge/Download-saytype-2ea44f?style=for-the-badge&logo=apple&logoColor=white)](https://ethansnake25.github.io)
 
 Visit this link to download the application.
 
